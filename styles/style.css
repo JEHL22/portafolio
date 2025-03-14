@@ -115,6 +115,12 @@ header{
     text-align: center;
 }
 
+.proyecto__imagen{
+    width: 100%;
+    border-radius: 8px;
+    padding: 10px 0 10px 0;
+}
+
 .proyectos__lista {
     display: flex;
     flex-direction: column;
